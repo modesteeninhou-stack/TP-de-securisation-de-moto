@@ -44,25 +44,26 @@ Une chambre d'hôtel avec petit-déjeuner coûte 160 €. Le petit-déjeuner co�
 
 ### Résolution
 
-Soit \(x\) le prix de la chambre. Le prix du petit-déjeuner est donc \(x-120\).
+Soit \(x\) le prix de la chambre. 
+Le prix du petit-déjeuner est donc \(x-120\).
 
-\[
+\
 x+(x-120)=160
-\]
+\
 
-\[
+\
 2x=280
-\]
+\
 
-\[
+\
 x=140
-\]
+\
 
 Le prix du petit-déjeuner est :
 
-\[
+\
 140-120=20
-\]
+\
 
 ### Résultat
 
