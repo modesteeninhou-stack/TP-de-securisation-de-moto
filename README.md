@@ -40,34 +40,14 @@ Les cinq diagrammes réalisés dans le cadre de l'étude sont accessibles via le
 
 ### Énoncé
 
-Une chambre d'hôtel avec petit-déjeuner coûte 160 €. Le petit-déjeuner coûte 120 € de moins que la chambre. Déterminer le coût de la chambre et celui du petit-déjeuner.
+Une chambre d'hôtel avec petit-déjeuner coûte 160 €. Le petit-déjeuner coûte 120 € de moins que la chambre. Déterminer le coût de chaque élément.
 
 ### Résolution
 
-**1. Mise en équation**
-
-Soit \(x\) le prix de la chambre.
-
-Puisque le petit-déjeuner coûte 120 € de moins que la chambre, son prix est :
-
-\[
-x-120
-\]
-
-Le prix total étant de 160 €, on obtient :
+Soit \(x\) le prix de la chambre. Le prix du petit-déjeuner est donc \(x-120\).
 
 \[
 x+(x-120)=160
-\]
-
-**2. Calcul**
-
-\[
-2x-120=160
-\]
-
-\[
-2x=160+120
 \]
 
 \[
@@ -75,34 +55,16 @@ x+(x-120)=160
 \]
 
 \[
-x=\frac{280}{2}=140
+x=140
 \]
 
-Le prix de la chambre est donc de **140 €**.
-
-**3. Calcul du prix du petit-déjeuner**
+Le prix du petit-déjeuner est :
 
 \[
 140-120=20
 \]
 
-Le prix du petit-déjeuner est donc de **20 €**.
+### Résultat
 
-### Résultat final
-
-- **Prix de la chambre : 140 €**
-- **Prix du petit-déjeuner : 20 €**
-
-### Vérification
-
-\[
-140+20=160
-\]
-
-\[
-140-20=120
-\]
-
-Les deux conditions de l'énoncé sont vérifiées.
-
-**Conclusion :** la chambre coûte 140 € et le petit-déjeuner coûte 20 €.
+- Chambre : **140 €**
+- Petit-déjeuner : **20 €**
